@@ -519,3 +519,31 @@ static __inline__ char*  adb_strtok_r(char *str, const char *delim, char **savep
 #endif /* !_WIN32 */
 
 #endif /* _ADB_SYSDEPS_H */
+
+class oo_sysdeps
+{
+    public：
+     static void adb_sysdeps_init(void) +
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    YES;
+};
